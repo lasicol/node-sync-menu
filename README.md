@@ -1,6 +1,8 @@
 # node-sync-menu
 Create simple sync console menu in nodejs
 
+![NodeMenuImage](./nodemenu.png)
+
 How to use it:
 
 ```javascript
