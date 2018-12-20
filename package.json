@@ -6,6 +6,10 @@
   "scripts": {},
   "author": "Blazej Laszewski",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lasicol/node-sync-menu.git"
+  },
   "dependencies": {
     "readline-sync": "^1.4.9"
   }
