@@ -1,4 +1,4 @@
-const menu = require('../src/NodeSyncMenu');
+const menu = require('../src/node-sync-menu');
 const readline = require('readline-sync');
 
 menu.addItem("Give your name and feedback", async () => {

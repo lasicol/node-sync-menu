@@ -2,7 +2,7 @@
   "name": "node-sync-menu",
   "version": "1.0.0",
   "description": "Create simple sync console menu in nodejs",
-  "main": "./src/Menu.js",
+  "main": "./src/node-sync-menu.js",
   "scripts": {},
   "author": "Blazej Laszewski",
   "license": "MIT",
