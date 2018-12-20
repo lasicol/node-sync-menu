@@ -1,0 +1,12 @@
+{
+  "name": "node-sync-menu",
+  "version": "1.0.0",
+  "description": "Create simple sync console menu in nodejs",
+  "main": "./src/Menu.js",
+  "scripts": {},
+  "author": "Blazej Laszewski",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
