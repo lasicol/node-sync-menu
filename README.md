@@ -46,7 +46,6 @@ Menu Methods:
      * @param {string} text default empty
      * @param {int} row default null
      */
-
     async addDelim(character, num=20, text="", row=null) 
 
     /**
